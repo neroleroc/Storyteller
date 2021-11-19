@@ -1,6 +1,6 @@
-# cod
+# Leroc Storyteller's Cut
 
-Chronicles of Darkness system for Foundry Virtual Tabletop, based upon 2nd edition ruleset.
+Storyteller system for Foundry Virtual Tabletop, based upon Vampire the Masquerade 3rd Edition Ruleset.
 
-Primary folder must be renamed to 'cod' and placed in your Foundry VTT systems folder. 
+Primary folder must be renamed to 'LSC' and placed in your Foundry VTT systems folder. 
 ( Default: %LocalAppData%\FoundryVTT\Data\systems\ )
