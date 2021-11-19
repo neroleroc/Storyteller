@@ -4,7 +4,7 @@
 	"description": "A system developed and modified to play old Storyteller's plataforms on Foundry VTT",
 	"version": "0.2",
 	"minimumCoreVersion": "0.5.5",
-	"compatibleCoreVersion": "0.7.10",
+	"compatibleCoreVersion": "0.5.5",
 	"templateVersion": 2,
 	"author": "Nero Leroc based on Buzghash's System",
 	"esmodules": ["module/cod.js"],
